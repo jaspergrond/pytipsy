@@ -8,7 +8,8 @@ The module includes two functions and a special class:
 * wtipsy: the same as above, but for writing
 * gaslog: a class for working with the gasoline log outputs.
 
-to build package from source run
->>> python setup.py sdist
+to build package from source run 
+* python setup.py sdist
+
 to install run
->>> pip install ./dist/PyTipsy-1.3.tar.gz
+* pip install ./dist/PyTipsy-1.3.tar.gz
